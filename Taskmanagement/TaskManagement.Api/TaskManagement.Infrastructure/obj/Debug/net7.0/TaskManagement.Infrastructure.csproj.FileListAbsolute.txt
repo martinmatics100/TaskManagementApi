@@ -1,0 +1,12 @@
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\bin\Debug\net7.0\TaskManagement.Infrastructure.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\bin\Debug\net7.0\TaskManagement.Infrastructure.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\bin\Debug\net7.0\TaskManagement.Infrastructure.pdb
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\refint\TaskManagement.Infrastructure.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.pdb
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\ref\TaskManagement.Infrastructure.dll

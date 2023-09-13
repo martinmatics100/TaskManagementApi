@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\bin\Debug\net7.0\TaskManagement.Core.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\bin\Debug\net7.0\TaskManagement.Core.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\bin\Debug\net7.0\TaskManagement.Core.pdb
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\bin\Debug\net7.0\TaskManagement.Data.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\bin\Debug\net7.0\TaskManagement.Data.pdb
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\refint\TaskManagement.Core.dll
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\TaskManagement.Core.pdb
+C:\Users\Administrator\OneDrive\Desktop\Taskmanagement\TaskManagement.Api\TaskManagement.Core\obj\Debug\net7.0\ref\TaskManagement.Core.dll
