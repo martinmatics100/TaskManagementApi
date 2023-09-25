@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C+nBBKn66/y2LrWdxohzRXWkuaNfF1tsEgPioOBMvBd/yqXVwkrmWZnsTwCAkf+DWZJL/is/Mts42X4SRrppew==",
+  "dgSpecHash": "NTw0MlAjpqITgB1ILaglzdoKVxrBX7KR15lX4QoadLYoqamiA4DvjyTfRTdYBf/Eb3kXnCamM3O8ghD0L8cRAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\TaskmanagementInterview\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
