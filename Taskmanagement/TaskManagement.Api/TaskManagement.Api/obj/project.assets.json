@@ -3959,11 +3959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\TaskManagement.Api.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\TaskManagement.Api.csproj",
       "projectName": "TaskManagement.Api",
-      "projectPath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\TaskManagement.Api.csproj",
+      "projectPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\TaskManagement.Api.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3985,11 +3985,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\TaskManagement.Core.csproj": {
-              "projectPath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\TaskManagement.Core.csproj"
+            "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\TaskManagement.Core.csproj": {
+              "projectPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\TaskManagement.Core.csproj"
             },
-            "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\TaskManagement.Data.csproj": {
-              "projectPath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\TaskManagement.Data.csproj"
+            "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\TaskManagement.Data.csproj": {
+              "projectPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\TaskManagement.Data.csproj"
             }
           }
         }
@@ -4038,7 +4038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

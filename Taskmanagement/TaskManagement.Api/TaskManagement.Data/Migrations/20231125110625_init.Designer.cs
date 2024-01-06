@@ -12,8 +12,8 @@ using TaskManagement.Data.AppDbContext;
 namespace TaskManagement.Data.Migrations
 {
     [DbContext(typeof(TaskManagementDbContext))]
-    [Migration("20230913163617_ModifiedNotificationTable")]
-    partial class ModifiedNotificationTable
+    [Migration("20231125110625_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

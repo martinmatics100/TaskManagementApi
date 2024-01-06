@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManagement.Infrastructure
-build_property.ProjectDir = C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\
+build_property.ProjectDir = C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\

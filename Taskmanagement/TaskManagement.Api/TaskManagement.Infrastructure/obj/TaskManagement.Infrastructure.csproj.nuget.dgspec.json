@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
+    "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {
+    "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
         "projectName": "TaskManagement.Infrastructure",
-        "projectPath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

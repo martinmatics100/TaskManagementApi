@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfROL8s+Y5qSn8U4vBGzWYl4ooEOsI1p5saNi4GdFNY8zaF+u3fycqoXrNE2H1xj+xSbVXi4JttTA5OEYTPQDQ==",
+  "dgSpecHash": "BNPDQeDmg7FNf8EFBj4oEaxtOwLvQoMoBdcGgGuD9fwBg2N3W7XivUg1yWBia9UHF32Fk5eutE78S8vfhWKQxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\TaskManagement.Data.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\TaskManagement.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

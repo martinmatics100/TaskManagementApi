@@ -33,3 +33,14 @@ C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskMana
 C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\refint\TaskManagement.Infrastructure.dll
 C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.pdb
 C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\ref\TaskManagement.Infrastructure.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\bin\Debug\net7.0\TaskManagement.Infrastructure.deps.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\bin\Debug\net7.0\TaskManagement.Infrastructure.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\bin\Debug\net7.0\TaskManagement.Infrastructure.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\refint\TaskManagement.Infrastructure.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\ref\TaskManagement.Infrastructure.dll

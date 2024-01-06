@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NTw0MlAjpqITgB1ILaglzdoKVxrBX7KR15lX4QoadLYoqamiA4DvjyTfRTdYBf/Eb3kXnCamM3O8ghD0L8cRAg==",
+  "dgSpecHash": "i0A2MeuWoXyUTkCo0cjsFby20S8b+Af2mxTdRQlg59B59Lj3D++rf+WnJRWXEFyFm+8yoiAYjPu5yC5UfZffZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

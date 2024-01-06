@@ -40,3 +40,17 @@ C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskMana
 C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.pdb
 C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.genruntimeconfig.cache
 C:\Users\marti\Desktop\Task Management\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\ref\TaskManagement.Data.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\bin\Debug\net7.0\TaskManagement.Data.deps.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\bin\Debug\net7.0\TaskManagement.Data.runtimeconfig.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\bin\Debug\net7.0\TaskManagement.Data.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\bin\Debug\net7.0\TaskManagement.Data.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.AssemblyInfo.cs
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\refint\TaskManagement.Data.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.genruntimeconfig.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\ref\TaskManagement.Data.dll

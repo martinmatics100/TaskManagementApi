@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7dvqr3XRGPF0q2mGVNLmHpt2lSmtqt6xojhSzr5lFZwgmMIDTYd3WDe25CIXR1ugOzaYyWLBmt1NYfCfZX6Ng==",
+  "dgSpecHash": "V7UYLeoJ8fJCcYFSmHbQGRX2L3QeR3Q933VFr6oqpmFP2dMe8gsH44WnuKA2j9dDjOzxljfDVXmhy0y66RuHyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\Task Management\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\TaskManagement.Api.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\TaskManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
