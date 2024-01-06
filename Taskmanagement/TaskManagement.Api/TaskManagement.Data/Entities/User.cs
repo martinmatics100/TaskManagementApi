@@ -16,5 +16,6 @@ namespace TaskManagement.Data.Entities
         public string Email { get; set; }
         public List<CustomTask> CreatedTasks { get; set; }
         public List<Notification> Notifications { get; set; }
+
     }
 }
