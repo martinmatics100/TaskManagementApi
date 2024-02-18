@@ -1,21 +1,23 @@
 # TaskManagementApi
 
 ## Prerequisites
-Before setting up and running the API, 
+
+Before setting up and running the API,
 ensure you have the following prerequisites installed on your system:
 
 1. .NET Core SDK (version 3.1 or higher)
 2. Microsoft SQL Server (or any other database of your choice)
-3. Visual Studio or Visual Studio Code 
+3. Visual Studio or Visual Studio Code
 4. SQL Server Management Studio
 
 ## Getting Started
+
 Clone the Repository
 First, clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/martinmatics100/TaskManagementApi.git 
+git clone https://github.com/martinmatics100/TaskManagementApi.git
 
 ## Database Setup
 
@@ -28,16 +30,20 @@ Update the database connection string in appsettings.json:
 json
 Copy code
 {
-  "ConnectionStrings": {
-    "conn": "server=MARTINMATICS;database=TaskManagementDb;Trust Server Certificate=true; MultipleActiveResultSets=true;integrated security=true;"
-  },
-  // ...
+"ConnectionStrings": {
+"conn": "server=MARTINMATICS;database=TaskManagementDb;Trust Server Certificate=true; MultipleActiveResultSets=true;integrated security=true;"
+},
+
+// ...
+
 }
 
 ## Build Solution and Run the api
+
 Building solution will update all dependencies
 
 ## API Endpoints
+
 The API provides the following endpoints:
 
 1. GET /tasks: Get a list of all tasks.
@@ -67,8 +73,7 @@ The API provides the following endpoints:
 25. DELETE /tasks/{taskId}/remove-from-project: Remove a task from a project.
 26. PUT /notifications/mark-as-read/{id}: Mark a notification as read.
 27. PUT /notifications/mark-as-unread/{id}: Mark a notification as unread.
-For more details on how to use these endpoints, refer to the API documentation in the markdown file in the project
-
+    For more details on how to use these endpoints, refer to the API documentation in the markdown file in the project
 
 ## Clean Architecture
 
