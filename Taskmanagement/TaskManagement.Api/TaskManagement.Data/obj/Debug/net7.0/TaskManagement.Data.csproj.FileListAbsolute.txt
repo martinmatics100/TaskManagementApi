@@ -54,3 +54,4 @@ C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementAp
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.pdb
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.genruntimeconfig.cache
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\ref\TaskManagement.Data.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Data\obj\Debug\net7.0\TaskManagement.Data.sourcelink.json

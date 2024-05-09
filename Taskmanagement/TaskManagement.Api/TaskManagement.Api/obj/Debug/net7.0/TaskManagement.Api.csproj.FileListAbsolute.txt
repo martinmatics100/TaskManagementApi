@@ -316,9 +316,10 @@ C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementAp
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\scopedcss\bundle\TaskManagement.Api.styles.css
-C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\TaskManagement.Api.csproj.CopyComplete
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\TaskManagement.Api.dll
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\refint\TaskManagement.Api.dll
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\TaskManagement.Api.pdb
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\TaskManagement.Api.genruntimeconfig.cache
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\ref\TaskManagement.Api.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\TaskManagement.Api.sourcelink.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Api\obj\Debug\net7.0\TaskMana.88DA88F4.Up2Date

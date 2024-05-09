@@ -1,5 +1,5 @@
 
-# User API Endpoints Documentation
+# User API Endpoints Documentation.
 
 This documentation provides instructions on how to use the endpoints provided by the User API implemented in the `UserRepository` class. The User API allows you to create, read, update, and delete user information.
 
