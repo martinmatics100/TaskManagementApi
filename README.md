@@ -92,4 +92,4 @@ Proper error handling is implemented for the API. The API returns appropriate HT
 
 For more details on how to use these endpoints, refer to the API documentation in the markdown file in the project
 
-This README outlines the setup and basic usage of the Task Management API. Additional documentation and design decisions can be found in the project's documentation folder.
+This README outlines the setup and basic usage of the Task Management API. Additional documentation and design decisions can be found in the project's documentation folder..
