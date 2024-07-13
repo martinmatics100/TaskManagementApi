@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.core\\implementation\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\implementation\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\entityenums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\entityenums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\entities\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\entities\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.core\\dto\\customtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\dto\\customtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.core\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\taskmanagement.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\taskmanagement.data\\appdbcontext\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\appdbcontext\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\appdbcontext\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\taskmanagement.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B3886B-7ECD-4C4A-98CD-C6EB3F2788A5}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C2D35AE-DDE1-4F30-94F8-458F841EC20C}|TaskManagement.Api\\TaskManagement.Api.csproj|C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\taskmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C2D35AE-DDE1-4F30-94F8-458F841EC20C}|TaskManagement.Api\\TaskManagement.Api.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C2D35AE-DDE1-4F30-94F8-458F841EC20C}|TaskManagement.Api\\TaskManagement.Api.csproj|solutionrelative:taskmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C2D35AE-DDE1-4F30-94F8-458F841EC20C}|TaskManagement.Api\\TaskManagement.Api.csproj|C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\taskmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C2D35AE-DDE1-4F30-94F8-458F841EC20C}|TaskManagement.Api\\TaskManagement.Api.csproj|solutionrelative:taskmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\task management api\\taskmanagementapi\\taskmanagement\\taskmanagement.api\\taskmanagement.data\\migrations\\20240607122655_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921D76DE-9FFC-45EA-9DA3-41372EC291A6}|TaskManagement.Data\\TaskManagement.Data.csproj|solutionrelative:taskmanagement.data\\migrations\\20240607122655_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,32 +66,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "TaskManagement.Data\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\User.cs",
-              "RelativeToolTip": "TaskManagement.Data\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T21:31:40.143Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Implementation\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TaskManagement.Core\\Implementation\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Implementation\\UserRepository.cs",
-              "RelativeToolTip": "TaskManagement.Core\\Implementation\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Implementation\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Implementation\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Implementation\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Implementation\\TaskRepository.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAcwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T21:31:07.368Z",
+              "WhenOpened": "2024-06-07T12:22:10.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CustomTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Dto\\CustomTaskDto.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Dto\\CustomTaskDto.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Dto\\CustomTaskDto.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Dto\\CustomTaskDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:21:35.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomTask.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\CustomTask.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Data\\Entities\\CustomTask.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\CustomTask.cs",
+              "RelativeToolTip": "TaskManagement.Data\\Entities\\CustomTask.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:21:28.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Data\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\Project.cs",
+              "RelativeToolTip": "TaskManagement.Data\\Entities\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:21:21.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\User.cs",
+              "RelativeToolTip": "TaskManagement.Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:31:40.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Data\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Entities\\Notification.cs",
+              "RelativeToolTip": "TaskManagement.Data\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:21:16.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\EntityEnums\\Enums.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Data\\EntityEnums\\Enums.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\EntityEnums\\Enums.cs",
+              "RelativeToolTip": "TaskManagement.Data\\EntityEnums\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:21:09.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240607122655_Init.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Migrations\\20240607122655_Init.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Data\\Migrations\\20240607122655_Init.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\Migrations\\20240607122655_Init.cs",
+              "RelativeToolTip": "TaskManagement.Data\\Migrations\\20240607122655_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:26:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv0YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:31:07.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Core\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "TaskManagement.Core\\Dto\\UserDto.cs",
@@ -79,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "TaskManagement.Api\\Controllers\\UserController.cs",
@@ -91,19 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManagement.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Api\\appsettings.json",
-              "RelativeToolTip": "TaskManagement.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2023-11-25T11:04:25.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TaskManagementDbContext.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\Task Management Api\\TaskManagementApi\\Taskmanagement\\TaskManagement.Api\\TaskManagement.Data\\AppDbContext\\TaskManagementDbContext.cs",
               "RelativeDocumentMoniker": "TaskManagement.Data\\AppDbContext\\TaskManagementDbContext.cs",

@@ -44,3 +44,4 @@ C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementAp
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\refint\TaskManagement.Infrastructure.dll
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.pdb
 C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\ref\TaskManagement.Infrastructure.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\Task Management Api\TaskManagementApi\Taskmanagement\TaskManagement.Api\TaskManagement.Infrastructure\obj\Debug\net7.0\TaskManagement.Infrastructure.sourcelink.json

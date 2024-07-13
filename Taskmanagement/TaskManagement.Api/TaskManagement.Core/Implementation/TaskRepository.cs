@@ -1,9 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TaskManagement.Core.Dto;
 using TaskManagement.Core.Services;
 using TaskManagement.Data.AppDbContext;
